@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_root">#FF171B23</color>
+    <color name="bg_card">#FF222936</color>
+    <color name="bg_card_high">#FF2A3240</color>
+    <color name="bg_input">#FF222936</color>
+    <color name="bg_button">#FF333C4C</color>
+    <color name="divider">#FF2C3543</color>
+    <color name="text_primary">#FFEDF1F7</color>
+    <color name="text_secondary">#FF8B97A9</color>
+    <color name="text_hint">#FF667285</color>
+    <color name="accent">#FFFF8A3D</color>
+    <color name="up">#FFFFA85C</color>
+    <color name="down">#FF5CC8F2</color>
+    <color name="danger">#FFFF5B61</color>
+    <color name="success">#FF4BD39B</color>
+    <color name="ripple">#33FFFFFF</color>
+    <color name="ic_launcher_background">#FF222936</color>
+</resources>

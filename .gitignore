@@ -1,0 +1,13 @@
+*.iml
+.gradle/
+local.properties
+.idea/
+.DS_Store
+build/
+captures/
+.externalNativeBuild
+.cxx/
+
+# 编译产物体积大且每次换包都会累积在 git 历史里，改放 GitHub Release
+*.apk
+*.apk.sha256
